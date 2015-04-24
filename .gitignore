@@ -1,0 +1,6 @@
+.*
+!.gitignore
+
+#Windows
+thumbs.db
+desktop.ini
